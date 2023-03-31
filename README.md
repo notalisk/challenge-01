@@ -14,7 +14,7 @@ Webpage for Horiseon, describing the benenfits of using their services. The page
 
 ## Screenshot
 
-![image of deployed webpage](image.jpg)
+![image of deployed webpage](https://user-images.githubusercontent.com/81662512/229032669-49859edc-7e4e-4c32-969e-ff7485841c97.png)
 
 ## Links
 
