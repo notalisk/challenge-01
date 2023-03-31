@@ -6,15 +6,15 @@ Webpage for Horiseon, describing the benenfits of using their services. The page
 
 ## Changes
 
-Wrote comments in style.css and index.html
-Changed non semantic elements to semantic elements
-Fixed a broken link
-Reorganized and consolidated style.css
-Changed page title
+- Wrote comments in style.css and index.html
+- Changed non semantic elements to semantic elements
+- Fixed a broken link
+- Reorganized and consolidated style.css
+- Changed page title
 
 ## Screenshot
 
-
+![image of deployed webpage](image.jpg)
 
 ## Links
 
